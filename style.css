@@ -31,3 +31,8 @@ hr {
   background: #cbd5e1;          /* subtle divider */
   margin: 2rem 0;
 }
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}
