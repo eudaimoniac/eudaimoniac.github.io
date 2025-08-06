@@ -7,17 +7,17 @@ body {
 }
 
 a {
-  color: #1e3a8a;               /* deep ocean blue */
+  color: #1f2937;              
   text-decoration: none;
 }
 
 a:hover {
-  color: #10b981;      
+  color: #1f2937;      
   text-decoration: underline;
 }
 
 h1, h2, h3 {
-  color: #000000;     
+  color: #1f2937;     
 }
 
 nav a {
